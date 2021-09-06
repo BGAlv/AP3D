@@ -5,7 +5,7 @@ function start(){
 			nlat:30,
 			nlong:30,
 			radius:3,
-			//textures: 'https://lizgar.github.io/A3D/js/earth.jpg'
+			textures: 'https://lizgar.github.io/A3D/js/earth.jpg'
 		}
 	);
 PhiloGL('glCanvas',
@@ -15,7 +15,7 @@ PhiloGL('glCanvas',
 			x:0, y:0, z:-10
 		}
 	},
-	/*
+	
 	textures:{
 		
 		src: ['https://lizgar.github.io/A3D/js/earth.jpg'],
@@ -29,7 +29,7 @@ PhiloGL('glCanvas',
 		}		
 		]
 	},	
-	*/
+	
 	
 	
 	
